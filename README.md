@@ -17,7 +17,7 @@ contributers--> Gautam, Prabhu, poorvi Parashar, Pratik Paul, Rituraj
 <p>Gouutam</p>
 <p>Anurag</p>
 
-<2>TeachStack used</h2>
+<h2>TeachStack used</h2>
 <ui>
   <li>React</li>
    <li>HTMl</li>
